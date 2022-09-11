@@ -8,4 +8,4 @@ Discord - https://discord.gg/HueyjzPa2Q
 ![Screenshot (1040)](https://user-images.githubusercontent.com/113201111/189526130-3615a1c5-89b3-4ece-81ed-45533e0473ed.png)
 
 
-https://github.com/Project-Sloth/ps-hud  Original Script
+https://github.com/Project-Sloth/ps-hud  Orignal Script
